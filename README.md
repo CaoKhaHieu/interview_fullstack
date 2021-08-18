@@ -1,4 +1,4 @@
-# interview_fullstack
+# INTERVIEW_FULLSTACK
 
 # ATTENTION: DEPRECATED
 
